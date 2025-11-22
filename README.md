@@ -193,7 +193,7 @@ The `docs/` folder includes:
 ---
 
 # 👨‍💻 Author  
-**SPARSH SAMRAT**  
+**Aleph Continuum**  
 AI Engineer • Full-Stack Developer • GenAI Architect  
 
 ---
