@@ -1,0 +1,1 @@
+streamlit pdfplumber transformers torch sqlalchemy openai

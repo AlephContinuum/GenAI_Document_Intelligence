@@ -1,0 +1,1 @@
+def answer_question(text, q): return 'Q&A placeholder'
